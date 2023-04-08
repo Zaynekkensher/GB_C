@@ -1,0 +1,15 @@
+C:\Users\kiyas\.git\GB_C\Example8\bin\Debug\net6.0\Example8.exe
+C:\Users\kiyas\.git\GB_C\Example8\bin\Debug\net6.0\Example8.deps.json
+C:\Users\kiyas\.git\GB_C\Example8\bin\Debug\net6.0\Example8.runtimeconfig.json
+C:\Users\kiyas\.git\GB_C\Example8\bin\Debug\net6.0\Example8.dll
+C:\Users\kiyas\.git\GB_C\Example8\bin\Debug\net6.0\Example8.pdb
+C:\Users\kiyas\.git\GB_C\Example8\obj\Debug\net6.0\Example8.csproj.AssemblyReference.cache
+C:\Users\kiyas\.git\GB_C\Example8\obj\Debug\net6.0\Example8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiyas\.git\GB_C\Example8\obj\Debug\net6.0\Example8.AssemblyInfoInputs.cache
+C:\Users\kiyas\.git\GB_C\Example8\obj\Debug\net6.0\Example8.AssemblyInfo.cs
+C:\Users\kiyas\.git\GB_C\Example8\obj\Debug\net6.0\Example8.csproj.CoreCompileInputs.cache
+C:\Users\kiyas\.git\GB_C\Example8\obj\Debug\net6.0\Example8.dll
+C:\Users\kiyas\.git\GB_C\Example8\obj\Debug\net6.0\refint\Example8.dll
+C:\Users\kiyas\.git\GB_C\Example8\obj\Debug\net6.0\Example8.pdb
+C:\Users\kiyas\.git\GB_C\Example8\obj\Debug\net6.0\Example8.genruntimeconfig.cache
+C:\Users\kiyas\.git\GB_C\Example8\obj\Debug\net6.0\ref\Example8.dll
